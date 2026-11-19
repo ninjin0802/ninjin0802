@@ -7,29 +7,34 @@
   <sub>An indie developer in Japan. From web and Android apps to a programming language, I build things to find out how they work.</sub>
 </p>
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-grown-dark.png"><img src="assets/head-grown-light.png" alt="そだったもの — いま動いているサービス" height="44"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-grown-dark.png"><img src="assets/head-grown-light.png" alt="そだったもの — いま動いているサービスとアプリ" height="44"></picture></h2>
 
 <table>
   <tr>
-    <td width="25%" align="center" valign="top">
+    <td width="20%" align="center" valign="top">
       <a href="https://nomige.2nj.lol"><img src="assets/work-nomige.jpg" alt="飲みゲー の画面" width="100%"></a><br>
       <b><a href="https://nomige.2nj.lol">飲みゲー</a></b><br>
       <sub>みんなのスマホで遊ぶ飲み会ゲーム。4桁のルームコードですぐ集合でき、インストールはいりません。</sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td width="20%" align="center" valign="top">
       <a href="https://posissue.2nj.lol"><img src="assets/work-posissue.jpg" alt="posissue の画面" width="100%"></a><br>
       <b><a href="https://posissue.2nj.lol">posissue</a></b><br>
       <sub>サイトに1行置くだけで、利用者のバグ報告や要望が GitHub Issue として届くウィジェット。 <a href="https://github.com/ninjin0802/posissue">GitHub</a></sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td width="20%" align="center" valign="top">
       <a href="https://sky.2nj.lol"><img src="assets/work-sky.jpg" alt="ほしばたけ の画面" width="100%"></a><br>
       <b><a href="https://sky.2nj.lol">ほしばたけ</a></b><br>
       <sub>いま頭上にひろがる星空を見るアプリ。星座と惑星、そのむかし話、宇宙ステーションの通り道も。</sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td width="20%" align="center" valign="top">
       <a href="https://mho.2nj.lol"><img src="assets/work-mho.jpg" alt="MHO装備ジェネレーター の画面" width="100%"></a><br>
       <b><a href="https://mho.2nj.lol">MHO装備ジェネレーター</a></b><br>
       <sub>モンハンアウトランダーズの装備を、ランク・武器・属性から自動で組み立てます。</sub>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <a href="https://github.com/ninjin0802/spotfy/releases/latest"><img src="assets/work-spotfy.jpg" alt="spotfy のアイコン" width="100%"></a><br>
+      <b><a href="https://github.com/ninjin0802/spotfy/releases/latest">spotfy</a></b><br>
+      <sub>Spotify Web Player を公式アプリのように使える、非公式の Android アプリ。 <a href="https://github.com/ninjin0802/spotfy">GitHub</a></sub>
     </td>
   </tr>
 </table>
@@ -39,7 +44,6 @@
 | なまえ | どんなもの | ことば |
 |---|---|---|
 | [kata-lang](https://github.com/ninjin0802/kata-lang) | AI エージェントが書いて読むことを考えた、Android 向けの実験的な言語 | Java |
-| [spotfy](https://github.com/ninjin0802/spotfy) | Spotify Web Player を公式アプリのように使える、非公式の Android アプリ | Kotlin |
 | [にんふぉんと](https://github.com/ninjin0802/font) | にんじんの形をした手書きのフォント。見出しもこの字です | Python |
 | [game-mode](https://github.com/ninjin0802/game-mode) | Pixel 向けの、ワンタップで切り替えるゲームモード | Java |
 | [SnapPurge](https://github.com/ninjin0802/SnapPurge) | スクリーンショットを、端末の中だけで整理する Android アプリ | Kotlin |
